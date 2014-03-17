@@ -1,12 +1,12 @@
-# revision 31012
+# revision 33194
 # category Package
 # catalog-ctan /macros/latex/contrib/uestcthesis
-# catalog-date 2013-06-07 17:33:30 +0200
+# catalog-date 2014-03-16 10:59:31 +0100
 # catalog-license lppl1.3
-# catalog-version 0.4.8
+# catalog-version 1.0.0
 Name:		texlive-uestcthesis
-Version:	0.4.8
-Release:	5
+Version:	1.0.0
+Release:	1
 Summary:	Thesis class for UESTC
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uestcthesis
@@ -45,11 +45,13 @@ Electronic Science and Technology of China.
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/contents/Eabstract.tex
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/contents/acknowledgements.tex
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/contents/appendix.tex
+%doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/contents/cv.tex
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/contents/original.tex
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/contents/publications.bib
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/contents/reference.bib
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/contents/titlepage.tex
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/contents/translation.tex
+%doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/packagecheck.tex
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/pics/Chrysanthemum.jpg
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/pics/Penguins.jpg
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/pics/Tulips.jpg
@@ -69,10 +71,8 @@ Electronic Science and Technology of China.
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/pics/winedt.png
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/uestcthesis-doc.pdf
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/doc/uestcthesis-doc.tex
-%doc %{_texmfdistdir}/doc/latex/uestcthesis/source/rvdtx.sty
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/source/uestcthesis.dtx
 %doc %{_texmfdistdir}/doc/latex/uestcthesis/source/uestcthesis.ins
-%doc %{_texmfdistdir}/doc/latex/uestcthesis/uestcthesis.pdf
 
 #-----------------------------------------------------------------------
 %prep
