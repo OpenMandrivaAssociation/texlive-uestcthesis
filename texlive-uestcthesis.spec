@@ -6,7 +6,7 @@
 # catalog-version 1.0.0
 Name:		texlive-uestcthesis
 Version:	1.0.0
-Release:	3
+Release:	4
 Summary:	Thesis class for UESTC
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uestcthesis
