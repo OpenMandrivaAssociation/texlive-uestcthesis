@@ -3,7 +3,7 @@ Version:	36371
 Release:	2
 Summary:	Thesis class for UESTC
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uestcthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uestcthesis
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uestcthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uestcthesis.doc.r%{version}.tar.xz
